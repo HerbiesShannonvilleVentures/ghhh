@@ -1,0 +1,6 @@
+{
+  "name": "Herbie's Shannonville Ventures",
+  "description": "A 3D open-world life simulator and business tycoon game set in Shannonville and Central Hastings, Ontario.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
